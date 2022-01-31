@@ -1,2 +1,2 @@
-# datasciencecoursera
+# data
 repository for courser
